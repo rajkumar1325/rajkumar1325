@@ -15,9 +15,9 @@
 
 - 💬 Ask me about **Java, Python, Machine Learning, AI etc...**
 
-- 📫 How to reach me **Rajkumar.rk0104@gmail.com**
+- 📫 Reach me at **Rajkumar.rk0104@gmail.com**
 
-- ⚡ Fun fact **Time Pass**
+- ⚡ Fun fact **I talk to my code like it’s a teammate… and sometimes it talks back (usually with bugs 😅)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
