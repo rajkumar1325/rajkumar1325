@@ -10,9 +10,10 @@
 
 </div>
 
----
+
 ### Portfolio : https://portfolio-one-flame-59.vercel.app/
 
+---
 ## About Me
 
 - 🎓 Final year B.Tech CSE @ **KCC Institute of Technology & Management**, Greater Noida
