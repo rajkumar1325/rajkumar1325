@@ -1,6 +1,5 @@
 <a href="https://portfolio-one-flame-59.vercel.app/" target="_blank">
-  <img align="right" src="![profile](https://github.com/user-attachments/assets/23ab0227-706e-4a83-be83-cb38f039fe67)
-" width="200" hspace="20" alt="Raj Kumar — Portfolio"/>
+  <img align="right" src="https://github.com/user-attachments/assets/23ab0227-706e-4a83-be83-cb38f039fe67" width="200" hspace="20" alt="Raj Kumar — Portfolio"/>
 </a>
 
 # Raj Kumar
