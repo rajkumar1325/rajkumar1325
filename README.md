@@ -1,18 +1,17 @@
-<a href="https://portfolio-one-flame-59.vercel.app/" target="_blank">
-  <img align="right" src="https://github.com/user-attachments/assets/23ab0227-706e-4a83-be83-cb38f039fe67" width="200" hspace="20" alt="Raj Kumar — Portfolio"/>
-</a>
+<div align="center">
 
 # Raj Kumar
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&pause=1000&color=D4A853&vCenter=true&width=600&lines=Building+things+that+actually+work.;Full-Stack+%7C+Flutter+%7C+ML+Developer;Published+Researcher+%7C+IJRTI+Jan+2026;Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=22&pause=1000&color=D4A853&center=true&vCenter=true&width=600&lines=Building+things+that+actually+work.;Full-Stack+%7C+Flutter+%7C+ML+Developer;Published+Researcher+%7C+IJRTI+Jan+2026;Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
 
----
 *Building real things that actually work — from offline-first mobile apps to published research.*
 
 [![Profile Views](https://komarev.com/ghpvc/?username=rajkumar1325&label=Profile%20views&color=d4a853&style=flat)](https://github.com/rajkumar1325)
 
+</div>
 
 ---
+### Portfolio : https://portfolio-one-flame-59.vercel.app/
 
 ## About Me
 
